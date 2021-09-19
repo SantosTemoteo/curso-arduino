@@ -1,4 +1,3 @@
-
 // https://www.tinkercad.com/things/1dugNqdj5Bi-exquisite-bigery-wluff/editel
 // LDR com potenciômetro
 
