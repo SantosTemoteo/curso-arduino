@@ -1,4 +1,4 @@
-//link
+//https://www.tinkercad.com/things/7VLPkrRYeNd-aula13/editel
 //Sensor LDR, fotoresistor (light dependent resistor)
 
 #define ldr A0
