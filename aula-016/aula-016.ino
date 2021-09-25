@@ -1,4 +1,4 @@
-// link
+// https://www.tinkercad.com/things/4bmEXpMqh18-ingenious-esboo-lahdi/editel?tenant=circuits
 // Função CONSTRAIN
 
 #define pot A0
@@ -26,6 +26,6 @@ void loop() {
  *  constrain(valor_pot, 500, 800)
  *  
  *   
- *  // usa-se quando o valor lido tem uma faixa determinada
- *  
+ *  // usa-se quando o valor lido tem uma faixa determinada.
+ *  // nada além de 800 nem aquém de 500 será mostrado no monitor serial.
  */
