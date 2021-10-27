@@ -28,6 +28,7 @@ void loop() {
  s1.write(ang_s1); // Aplicar essa rotação ao servo
  delay(100); // ta muito lento, pega o delay do outro servo, n sei pq
 
+
  ang_s2=0;
  s2.write(ang_s2);
  a=s2.read();
