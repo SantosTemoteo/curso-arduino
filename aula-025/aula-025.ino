@@ -26,7 +26,7 @@ void setup() {
 void loop() {
  ang_s1=map(analogRead(pot),0,1023,0,180); // Ler valor de pot e passar pro servo, até 180°
  s1.write(ang_s1); // Aplicar essa rotação ao servo
- delay(100); // ta muito lento, pera o delay do outro servo, n sei pq
+ delay(100); // ta muito lento, pega o delay do outro servo, n sei pq
 
  ang_s2=0;
  s2.write(ang_s2);
